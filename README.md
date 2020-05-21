@@ -1,0 +1,2 @@
+# Antirevoke
+AdGuard antirevoke 
