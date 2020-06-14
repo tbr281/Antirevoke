@@ -25,7 +25,6 @@ adclick.g.douclick.net
 d.applovin.com
 rt.applovin.com
 a.applovin.com
-play.googleapis.com
 ssl.google-analytics.com
 e.crashlytics.com
 cloudconfig.googleapis.com
