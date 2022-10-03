@@ -25,3 +25,4 @@ ssl.google-analytics.com
 e.crashlytics.com
 cloudconfig.googleapis.com
 device-provisioning.googleapis.com
+client-api.itunes.apple.com
