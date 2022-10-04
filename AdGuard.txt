@@ -27,3 +27,5 @@ cloudconfig.googleapis.com
 device-provisioning.googleapis.com
 client-api.itunes.apple.com
 firebaselogging-pa.googleapis.com
+app-measurement.com
+cdp.cloud.unity3d.com
