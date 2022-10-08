@@ -34,3 +34,4 @@ firebaselogging-pa.googleapis.com
 aax.amazon-adsystem.com
 api.pubnative.net
 pubads.g.doubleclick.net
+aax-us-east.amazon-adsystem.com
