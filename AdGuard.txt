@@ -52,3 +52,6 @@ aax-us-east.amazon-adsystem.com
 googleads.g.doubleclick.net
 ad.doubleclick.net
 pubads.g.doubleclick.net
+init.supersonicads.com
+www.adtilt.com
+graph.facebook.com
