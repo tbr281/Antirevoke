@@ -55,3 +55,4 @@ pubads.g.doubleclick.net
 init.supersonicads.com
 www.adtilt.com
 graph.facebook.com
+fw.adsafeprotected.com
